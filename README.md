@@ -1,1 +1,1 @@
-# video-playback-ime-calculator
+# video-playback-time-calculator
